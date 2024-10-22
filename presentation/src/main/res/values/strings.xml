@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bob\'s Burger</string>
+    <string name="character_image_description">Character Image View</string>
+    <string name="reload_image_button">Reload</string>
+    <string name="something_went_wrong">Something went wrong! Please try again later</string>
+    <string name="label_name">Name:</string>
+    <string name="label_gender">Gender:</string>
+    <string name="label_age">Age:</string>
+    <string name="label_hair">Hair:</string>
+    <string name="label_occupation">Occupation:</string>
+</resources>
